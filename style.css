@@ -1,0 +1,41 @@
+header {
+	background-image: url("http://designurge.com/wp-content/uploads/2013/10/Halo-4-Twitter-Background-Pre.jpg");
+	color: #006A9E;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h1 {
+	padding: 50px;
+}
+nav {
+	background-color: #00446A;
+	text-align: center;
+	margin-left: 0 auto;
+}
+a {
+	padding: 15px;
+	color: #006A9E;
+
+}
+h3 {
+	color: #006A9E;
+	padding: 30px;
+}
+body {
+	background-color: #030F19;
+	padding:0;
+	margin:0;
+}
+
+footer {
+	background-color: #00446A;
+	position: fixed;
+	bottom: 0;
+	text-align: center;
+	width: 100%;
+
+}
+
+.nopadding {
+	padding: 0px;
+}

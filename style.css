@@ -6,6 +6,8 @@ header {
 }
 h1 {
 	padding: 50px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 50px;
 }
 nav {
 	background-color: #00446A;
@@ -20,11 +22,13 @@ a {
 h3 {
 	color: #006A9E;
 	padding: 30px;
+	font-family: 'Raleway', sans-serif;
 }
 body {
 	background-color: #030F19;
 	padding:0;
 	margin:0;
+	font-family: 'Raleway', sans-serif;
 }
 
 footer {
@@ -34,6 +38,10 @@ footer {
 	text-align: center;
 	width: 100%;
 
+}
+li {
+	color: #006A9E;
+	font-family: 'Raleway', sans-serif;
 }
 
 .nopadding {

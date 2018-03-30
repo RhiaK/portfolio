@@ -1,6 +1,5 @@
 header {
 	background-image: url("http://designurge.com/wp-content/uploads/2013/10/Halo-4-Twitter-Background-Pre.jpg");
-	color: #006A9E;
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -8,40 +7,57 @@ h1 {
 	padding: 50px;
 	font-family: 'Raleway', sans-serif;
 	font-size: 50px;
+	color: rgb(242, 228, 176);
 }
 nav {
-	background-color: #00446A;
+	background-color: #030F19;
 	text-align: center;
 	margin-left: 0 auto;
 }
 a {
 	padding: 15px;
-	color: #006A9E;
+	color: rgb(242, 228, 176)
 
 }
 h3 {
-	color: #006A9E;
+	color: #030F19;
 	padding: 30px;
 	font-family: 'Raleway', sans-serif;
 }
 body {
-	background-color: #030F19;
+	background-color: rgb(242, 228, 176);	
 	padding:0;
 	margin:0;
 	font-family: 'Raleway', sans-serif;
+	margin-bottom: 60px;
+}
+
+p{
+	margin: 0 30px 0 30px;
+	padding: 15px;
+	color: #030F19;
+}
+#plink {
+	color: #030F19;
+	margin-left: 40px;
 }
 
 footer {
-	background-color: #00446A;
+	background-color: #030F19;
 	position: fixed;
 	bottom: 0;
 	text-align: center;
 	width: 100%;
+	height: 60px;
 
 }
 li {
-	color: #006A9E;
+	color: #030F19;
 	font-family: 'Raleway', sans-serif;
+	margin-left: 40px;
+}
+address {
+	color: rgb(242, 228, 176);
 }
 
 .nopadding {

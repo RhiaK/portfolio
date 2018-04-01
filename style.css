@@ -24,7 +24,7 @@ a {
 
 h3 {
 	color: #030F19;
-	padding: 30px;
+	padding: 30px 0 15px 30px;
 	font-family: 'Raleway', sans-serif;
 }
 
@@ -33,7 +33,7 @@ body {
 	padding:0;
 	margin:0;
 	font-family: 'Raleway', sans-serif;
-	margin-bottom: 60px;
+	margin-bottom: 100px;
 }
 
 #aboutMeText {
@@ -49,7 +49,7 @@ body {
 }
 
 #plink {
-	color: #004F79;
+	color: #066695;
 	padding: 0;
 }
 

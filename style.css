@@ -3,43 +3,59 @@ header {
 	background-repeat: no-repeat;
 	background-size: cover;
 }
+
 h1 {
 	padding: 50px;
 	font-family: 'Raleway', sans-serif;
 	font-size: 50px;
-	color: rgb(242, 228, 176);
+	color: rgb(255, 245, 216);
 }
+
 nav {
 	background-color: #030F19;
 	text-align: center;
 	margin-left: 0 auto;
 }
+
 a {
 	padding: 15px;
-	color: rgb(242, 228, 176)
-
+	color: rgb(255, 245, 216);
 }
+
 h3 {
 	color: #030F19;
 	padding: 30px;
 	font-family: 'Raleway', sans-serif;
 }
+
 body {
-	background-color: rgb(242, 228, 176);	
+	background-color: rgb(255, 245, 216);	
 	padding:0;
 	margin:0;
 	font-family: 'Raleway', sans-serif;
 	margin-bottom: 60px;
 }
 
-p{
+#aboutMeText {
+	margin: 0 30px 0 30px;
+	padding: 15px;
+	color: #030F19;	
+}
+
+#text {
 	margin: 0 30px 0 30px;
 	padding: 15px;
 	color: #030F19;
 }
+
 #plink {
-	color: #030F19;
-	margin-left: 40px;
+	color: #004F79;
+	padding: 0;
+}
+
+.LI-profile-badge {
+	position: fixed;
+	right: 0;
 }
 
 footer {
@@ -49,15 +65,21 @@ footer {
 	text-align: center;
 	width: 100%;
 	height: 60px;
-
+	color: rgb(255, 245, 216);
 }
+
 li {
 	color: #030F19;
 	font-family: 'Raleway', sans-serif;
 	margin-left: 40px;
 }
+
 address {
-	color: rgb(242, 228, 176);
+	color: rgb(255, 245, 216);
+}
+
+.footContent{
+	margin-top: 10px;
 }
 
 .nopadding {

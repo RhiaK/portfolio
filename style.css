@@ -4,11 +4,20 @@ header {
 	background-size: cover;
 }
 
+.logo {
+	height: 100px;
+	width: auto;
+	margin-top: 20px;
+	text-align: center;
+	padding: 0;
+}
+
 h1 {
-	padding: 50px;
+	padding: 25px 0 0 25px;
 	font-family: 'Raleway', sans-serif;
-	font-size: 50px;
-	color: rgb(255, 245, 216);
+	font-size: 45px;
+	color: #030F19;
+	font-style: bold;
 }
 
 nav {
@@ -22,7 +31,7 @@ a {
 	color: rgb(255, 245, 216);
 }
 
-h3 {
+h3, h5, h6{
 	color: #030F19;
 	padding: 30px 0 15px 30px;
 	font-family: 'Raleway', sans-serif;
@@ -42,13 +51,13 @@ body {
 	color: #030F19;	
 }
 
-#text {
+.text {
 	margin: 0 30px 0 30px;
 	padding: 15px;
 	color: #030F19;
 }
 
-#plink {
+.plink {
 	color: #066695;
 	padding: 0;
 }
@@ -74,12 +83,8 @@ li {
 	margin-left: 40px;
 }
 
-address {
-	color: rgb(255, 245, 216);
-}
-
 .footContent{
-	margin-top: 10px;
+	margin-top: 20px;
 }
 
 .nopadding {

@@ -18,7 +18,10 @@ header {
 
 .aboutHead {
 	background-image: url("./images/borderPups.jpg");
-	border-bottom: 15px black solid;
+	border-bottom: 20px black solid;
+	border-top: 20px black solid;
+	background-color: black;
+	background-position: center;
 	height: 300px;
 	padding-top: -50px;
 }

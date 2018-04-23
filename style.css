@@ -1,60 +1,83 @@
 header {
-	background-image: url('http://rhiannon-kaulitzke/image.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
+	width: 100%;
+	padding: 0;
 }
 
-.logo {
-	height: 100px;
-	width: auto;
-	margin-top: 20px;
-	text-align: center;
-	padding: 0;
+.indexHead {
+	background-image: url("./images/image.png"); 
+	height: 250px;
+}
+
+.contactHead{
+	background-image: url("./images/image.png"); 
+	height: 250px;
+	border-bottom: 20px solid #418291;
+}
+
+.aboutHead {
+	background-image: url("./images/borderPups.jpg");
+	border-bottom: 15px black solid;
+	height: 300px;
+	padding-top: -50px;
+}
+
+.contact {
+	color: #70894a;
+	font-size: 20px;
+}
+
+#credit {
+	position: absolute;
+	right: 0;
+	top: -2px;
+
 }
 
 h1 {
 	padding: 25px 0 0 25px;
 	font-family: 'Raleway', sans-serif;
 	font-size: 45px;
-	color: #030F19;
+	color: #64381E;
 	font-style: bold;
 }
 
 nav {
-	background-color: #030F19;
+	background-color: #418291;
 	text-align: center;
 	margin-left: 0 auto;
 }
 
 a {
 	padding: 15px;
-	color: rgb(255, 245, 216);
+	color: #bfe08d;
 }
 
 h3, h5, h6{
-	color: #030F19;
+	color: #64381E;
 	padding: 30px 0 15px 30px;
 	font-family: 'Raleway', sans-serif;
 }
 
 body {
-	background-color: rgb(255, 245, 216);	
+	background-color: #fcf8e3;	
 	padding:0;
 	margin:0;
 	font-family: 'Raleway', sans-serif;
 	margin-bottom: 100px;
 }
 
-#aboutMeText {
+.aboutMeText {
 	margin: 0 30px 0 30px;
 	padding: 15px;
-	color: #030F19;	
+	color: #64381E;	
 }
 
 .text {
 	margin: 0 30px 0 30px;
 	padding: 15px;
-	color: #030F19;
+	color: #64381E;
 }
 
 .plink {
@@ -62,25 +85,25 @@ body {
 	padding: 0;
 }
 
-.LI-profile-badge {
-	position: fixed;
-	right: 0;
-}
-
 footer {
-	background-color: #030F19;
+	background-color: #418291;
 	position: fixed;
 	bottom: 0;
+	left: 0;
 	text-align: center;
 	width: 100%;
 	height: 60px;
-	color: rgb(255, 245, 216);
+	color: #94B16A;
 }
 
 li {
-	color: #030F19;
+	color: #64381E;
 	font-family: 'Raleway', sans-serif;
 	margin-left: 40px;
+}
+
+.bold{
+	font-size: 19px;
 }
 
 .footContent{

@@ -3,6 +3,8 @@ header {
 	background-size: cover;
 	width: 100%;
 	padding: 0;
+	color: #bfe08d;
+	font-family: 'Caveat', cursive;
 }
 
 .indexHead {
@@ -26,6 +28,20 @@ header {
 	padding-top: -50px;
 }
 
+.blogHead {
+	background-color: #418291;
+	height: 150px;
+
+
+}
+
+.blogHeadText {
+	font-family: 'Caveat', cursive;
+	color: #bfe08d;
+	font-size: 70px;
+	margin-left: 25px;
+}
+
 .contact {
 	color: #70894a;
 	font-size: 20px;
@@ -38,7 +54,7 @@ header {
 
 }
 
-h1 {
+body h1 {
 	padding: 25px 0 0 25px;
 	font-family: 'Raleway', sans-serif;
 	font-size: 45px;

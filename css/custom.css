@@ -610,6 +610,11 @@ a:focus{
 	background: url(../images/dhaval-parmar-531583-unsplash.jpg);
 }
 
+.during {
+	color: white;
+	text-align: center;
+}
+
 .single-service-outer{
 	background: #fff;
 	position: relative;
